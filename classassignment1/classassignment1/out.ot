@@ -1,0 +1,52 @@
+
+
+::Step 1:: Read all lines and output
+
+Strings 1-3:
+How much wood would a wood chuck chuck, if a wood chuck could chuck wood?
+Rudolph, with your nose so bright, won't you guide our sleigh tonight?
+Over the river and through the woods, to grandmother's house we go.
+
+
+::Step 2:: Get lengths of strings
+
+Length of string 1: 73
+Length of string 2: 70
+Length of string 3: 67
+
+
+::Step 3:: Find index of first comma
+
+Index Location of comma in string 1: 38
+Index Location of comma in string 2: 7
+Index Location of comma in string 3: 36
+
+
+::Step 4:: Read char two space before comma position
+
+Char two spaces before first comma in string 1: c
+Char two spaces before first comma in string 2: p
+Char two spaces before first comma in string 3: d
+
+
+::Step 5:: Read substring two spaces after first comma to the end of line
+
+Substring two spaces after first comma to end of string 1: if a wood chuck could chuck wood?
+Substring two spaces after first comma to end of string 2: with your nose so bright, won't you guide our sleigh tonight?
+Substring two spaces after first comma to end of string 3: to grandmother's house we go.
+
+
+::Step 6:: erase the first comma in each string
+
+Strings with first comma deleted:
+How much wood would a wood chuck chuck if a wood chuck could chuck wood?
+Rudolph with your nose so bright, won't you guide our sleigh tonight?
+Over the river and through the woods to grandmother's house we go.
+
+
+::Step 7:: insert "TGIT" into each string at same position of the first comma
+
+Inserted "TGIT" into each string at first comma location: 
+How much wood would a wood chuck chuckTGIT if a wood chuck could chuck wood?
+RudolphTGIT with your nose so bright, won't you guide our sleigh tonight?
+Over the river and through the woodsTGIT to grandmother's house we go.
