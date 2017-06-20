@@ -1,0 +1,66 @@
+                                   Marvel College
+                                   Alumni Records
+
+ Name                             Pledge                                      Address
+─────────────────────────────────────────────────────────────────────────────────────
+Samwise X. Gamgee                  25000         101 Elm St, Grand Junction, Co 81501
+Luke Q. Skywalker                    500     222 Jedi Avenue, Crested Butte, Co 81603
+Cindy Lou B. Wayne-Tate             5000              P. O. Box 3335, Butte, Mt 91505
+Ann Marie A. Spyro                  2750         222 Hope Ct, Beverly Hills, CA 90201
+George Q. Bailey                    7500     202 Main Street, Bedford Falls, NY 02121
+Clarence A. Goodbody                  50       100 Angel Drive, Los Angeles, CA 91221
+Donald J. Trump                  1000000  1600 Pennsylvania Ave, Washington, DC 20500
+─────────────────────────────────────────────────────────────────────────────────────
+#####################################################################################
+                              Sorted by Pledge Amount
+ Name                             Pledge                                      Address
+─────────────────────────────────────────────────────────────────────────────────────
+Donald J. Trump                  1000000  1600 Pennsylvania Ave, Washington, DC 20500
+Samwise X. Gamgee                  25000         101 Elm St, Grand Junction, Co 81501
+George Q. Bailey                    7500     202 Main Street, Bedford Falls, NY 02121
+Cindy Lou B. Wayne-Tate             5000              P. O. Box 3335, Butte, Mt 91505
+Ann Marie A. Spyro                  2750         222 Hope Ct, Beverly Hills, CA 90201
+Luke Q. Skywalker                    500     222 Jedi Avenue, Crested Butte, Co 81603
+Clarence A. Goodbody                  50       100 Angel Drive, Los Angeles, CA 91221
+─────────────────────────────────────────────────────────────────────────────────────
+#####################################################################################
+                                Sorted by Last Name
+Name                              Pledge
+─────────────────────────────────────────────────────────────────────────────────────
+Bailey, George Q.                   7500
+Gamgee, Samwise X.                 25000
+Goodbody, Clarence A.                 50
+Skywalker, Luke Q.                   500
+Spyro, Ann Marie A.                 2750
+Trump, Donald J.                 1000000
+Wayne-Tate, Cindy Lou B.            5000
+─────────────────────────────────────────────────────────────────────────────────────
+Total Pledges:                   1040800
+#####################################################################################
+                                 Sorted by zipcode
+Name                             Zipcode
+─────────────────────────────────────────────────────────────────────────────────────
+Wayne-Tate, Cindy Lou B.           91505
+Goodbody, Clarence A.              91221
+Spyro, Ann Marie A.                90201
+Skywalker, Luke Q.                 81603
+Gamgee, Samwise X.                 81501
+Trump, Donald J.                   20500
+Bailey, George Q.                  02121
+─────────────────────────────────────────────────────────────────────────────────────
+#####################################################################################
+
+
+
+                                Sorted by Last Name
+Name                              Pledge
+─────────────────────────────────────────────────────────────────────────────────────
+Bailey, George Q.                 $7,500
+Gamgee, Samwise X.               $25,000
+Goodbody, Clarence A.                $50
+Skywalker, Luke Q.                  $500
+Spyro, Ann Marie A.               $2,750
+Trump, Donald J.              $1,000,000
+Wayne-Tate, Cindy Lou B.          $5,000
+─────────────────────────────────────────────────────────────────────────────────────
+#####################################################################################

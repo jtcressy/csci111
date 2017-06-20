@@ -1,0 +1,25 @@
+Data for box1:
+The box object has these dimensions :
+      Length =    0.000 inches 
+       Width =    0.000 inches 
+      Height =    0.000 inches 
+Data for box2:
+The box object has these dimensions :
+      Length =   12.225 inches 
+       Width =   11.500 inches 
+      Height =   12.000 inches 
+New dimensions for box1:
+The box object has these dimensions :
+      Length =   34.125 inches 
+       Width =   24.333 inches 
+      Height =   13.500 inches 
+Volume in cubic inches for box1: 11209.909
+Volume in cubic inches for box2: 1687.050
+Volume in cubic feet for box1: 934.159
+Volume in cubic feet for box2: 140.588
+Surface area in square inches for box1: 3239.093
+Surface area in square inches for box2: 850.575
+Surface area in square feet for box1: 269.924
+Surface area in square feet for box2: 70.881
+Minimum amount of xmas wrapping paper (in sq.ft.) for both boxes: 340.806
+Minimum amount of soil (in cu.ft) to fill same size boxes as planters: 1074.747
